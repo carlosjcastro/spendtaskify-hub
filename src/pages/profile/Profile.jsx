@@ -87,7 +87,7 @@ export default function Profile() {
       console.log("Path relativo de la imagen subida:", filePathRelative);
 
       // Esto es para obtener la URL pública del archivo subido
-      const publicUrl = `https://oyxzajcawnadddsfohez.supabase.co/storage/v1/object/public/avatars/${filePathRelative}`;
+      const publicUrl = `https://ngkrrixfewuplvkqmzfw.supabase.co/storage/v1/object/public/avatars/${filePathRelative}`;
       console.log("Probando URL pública directa:", publicUrl);
 
       // Se verifica si la URL directa funciona
